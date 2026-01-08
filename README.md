@@ -106,7 +106,7 @@
 ![MobileView Saved Tools page light mode Screenshot](screenshots/MobileView-SavedToolsPage-Light-Mode.png)
 
 ## Saved Tools Page (Mobile Dark Mode)
-![MobileView Saved Tools page dark mode Screenshot](screenshots/Mobile-View-SavedToolspage-DarkMode.png)
+![MobileView Saved Tools page dark mode Screenshot](screenshots/MobileView-Savedtoolspage-DarkMode.png)
 
 
 
@@ -147,7 +147,7 @@ To run this app, you need to open **two terminals** — one for the frontend and
 
    ```bash
    node index.js
-   
+
 
 
 **🎁 Bonus Features**
